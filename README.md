@@ -2,6 +2,8 @@
 
 Data visualisation project from FreeCodeCamp built using React and D3.
 
+[Demo](https://d3-map-drhectapus.herokuapp.com/)
+
 #### User stories:
 
 1. I can see where all Meteorites landed on a world map.
