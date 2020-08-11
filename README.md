@@ -1,8 +1,7 @@
-# Map Data Across the Globe
+# Map Data Across the Globe ([Demo](https://d3-map-drhectapus.herokuapp.com/))
 
 Data visualisation project from FreeCodeCamp built using React and D3.
 
-[Demo](https://d3-map-drhectapus.herokuapp.com/)
 
 #### User stories:
 
